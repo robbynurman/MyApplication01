@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Nota Ku</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="activity_title_home">Nota Ku</string>
+    <string name="msg_no_notes">Nota Tidak Ada!</string>
+    <string name="lbl_new_note_title">New Nota</string>
+    <string name="lbl_edit_note_title">Edit Nota</string>
+    <string name="hint_enter_note">Enter your nota!</string>
+</resources>
